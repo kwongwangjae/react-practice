@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 5rem;
+    background-color: #F2E9D8;
+    color: black;
+  }
+
+  .nav-links {
+    display: flex;
+  }
+  
+  .nav-links a {
+    margin-left: 2.5rem;
+    color: black;
+    text-decoration: none;
+  }
+  
+  
